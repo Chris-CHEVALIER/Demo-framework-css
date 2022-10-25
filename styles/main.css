@@ -2,3 +2,15 @@ h1 {
   color: green;
   background-color: blue;
 }
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
